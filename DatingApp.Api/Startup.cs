@@ -45,6 +45,7 @@ namespace DatingApp.Api
             else
             {
                 // app.UseHsts();
+                //komm
             }
                 
             // app.UseHttpsRedirection();
