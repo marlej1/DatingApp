@@ -3,3 +3,4 @@
 /DatingApp.Api/obj
 /DatingApp.Api/*.db
 /.vscode
+/DatingApp.Api/appsettings.json
